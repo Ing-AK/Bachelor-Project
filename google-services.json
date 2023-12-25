@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "380431284326",
+    "firebase_url": "https://feinak-495c6.firebaseio.com",
+    "project_id": "feinak-495c6",
+    "storage_bucket": "feinak-495c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380431284326:android:d3812886caaf3e36",
+        "android_client_info": {
+          "package_name": "com.example.ali.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380431284326-44t09fte93lo0ab3hhfr0mnbffkka4ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1W_vLYKHNNHYGASC2lUL9rp58-VdxW_g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
